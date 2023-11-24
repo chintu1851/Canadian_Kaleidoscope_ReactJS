@@ -1,0 +1,263 @@
+.learnmore {
+    background-color: white;
+    font-size: 20px;
+    padding: 10px 60px;
+    border-radius: 20px;
+    cursor: pointer;
+    margin-top: 20px;
+    border: 1px solid black;
+}
+
+.expimages {
+    width: 370px;
+    height: 260px;
+    margin-right: 143px;
+    margin-top: 50px;
+}
+.explore .detail {
+    text-align: left;
+    margin-left: 20px;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+.h2explore {
+    text-align: left;
+    color: white;
+     text-decoration: underline;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 5px;
+}
+
+.explore {
+    display: flex;
+    margin: 80px 150px;
+    background-color: #392D53;
+    padding: 10px;
+    border-radius: 15px;
+
+}
+
+.explore p {
+    width: 90%;
+    text-align: left;
+    color: white;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.first {
+    color: black;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.third {
+    display: flex;
+    flex-direction: row;
+    margin-left: 80px;
+    margin-bottom: 80px;
+}
+
+.fourth {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 80px;
+}
+
+.third p {
+    width: 50%;
+    text-align: left;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.fourth p {
+    width: 50%;
+    margin-left: 80px;
+    text-align: left;
+    color: black;
+    margin-right: 143px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.images {
+    width: 370px;
+    height: 260px;
+    margin-right: 143px;
+}
+
+.h1fourth {
+    text-align: left;
+    margin-left: 80px;
+}
+
+.h1third {
+    text-align: left;
+    margin-left: 593px;
+    margin-top: 50px;
+}
+
+.imgevents {
+    width: 100%;
+    height: 65vh;
+    margin-top: 90px;
+}
+
+.eventh1 {
+    position: absolute;
+    top: 65%;
+    left: 0;
+    right: 0;
+    color: white;
+    text-decoration: underline;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 5px;
+}
+
+.blog1 {
+    display: flex;
+    margin-left: 121px;
+    margin-right: 100px;
+    margin-bottom: 20px;
+    border-bottom: 1px solid black;
+}
+
+.blog1 p {
+    text-align: left;
+}
+
+.blogimages {
+    width: 395px;
+    height: 200px;
+    margin-right: 143px;
+    margin-bottom: 20px;
+}
+
+.blog1:last-child {
+    border: none;
+}
+
+.blog {
+    margin-bottom: 40px;
+}
+
+.news {
+    display: flex;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+.news div {
+    border: 1px solid black;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.news p {
+    text-align: left;
+    padding: 20px;
+}
+
+.newsimages {
+    width: 395px;
+    height: 200px;
+    margin-bottom: 10px;
+}
+.news h2{
+    margin-bottom: 20px;
+}
+.h2news{
+    margin-bottom: 50px;
+}
+iframe {
+    width: 900px;
+    height: 506px;
+    border: 2px solid black;
+
+}
+
+.media {
+    margin-bottom: 30px;
+}
+
+.aboutus p {
+    text-align: left;
+    width: 50%;
+    padding-bottom: 30px;
+}
+
+.aboutus {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+form {
+    width: 50%;
+    margin: auto;
+    padding: 2em;
+    background-color: #392D53;
+    border-radius: 5px;
+    margin-bottom: 70px;
+}
+
+.contact {
+    display: block;
+}
+
+label {
+    display: block;
+    margin-bottom: 0.25em;
+    text-align: left;
+    color: white;
+    margin-bottom: 10px;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="text"],
+input[type="name"],
+textarea {
+    width: 720px;
+    padding: 1em;
+    margin-bottom: 2em;
+    border: 1px solid rgb(235, 233, 233);
+    font-size: var(--authors);
+    border-radius: 0.187em;
+    color: var(--description);
+    border-radius: 10px;
+}
+
+form button {
+    background-color: white;
+    font-size: 20px;
+    padding: 10px 60px;
+    border-radius: 20px;
+    cursor: pointer;
+    margin-top: 50px;
+    border: 1px solid black;
+}
+
+.phone {
+    width: 150px;
+    height: 100px;
+}
+
+.contactdetail {
+    display: flex;
+    justify-content: center;
+}
+
+.contactdetail div {
+    margin: 40px;
+    border: 2px solid black;
+    padding: 20px;
+    width: 20%;
+}
+
+.contactdetail h3 {
+    color: red;
+}
